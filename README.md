@@ -1,2 +1,2 @@
-# plotly_deploy
-For this challenge we used plotly with javascript coding. this tool with java allow us to create different types of chart for a client who wanted to display the results of her research on a webpage.
+# Plotly_deploy
+For this chanllenge we utilize Plotly a data visualization tool, to help Roza display the results of her reasearh about the biodiversity of peoples bellybutton. We used Java and HTML tied in with plotly to create graphs that show Roza results in a interactive way.
