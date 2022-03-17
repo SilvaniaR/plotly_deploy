@@ -1,0 +1,17 @@
+body {
+
+    color: #091038;
+}
+
+.jumbotron {
+    background-image: url("../images/microbe.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+}
